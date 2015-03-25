@@ -12,6 +12,7 @@ Make sure you download github for your operating system before continuing! Here 
 * Linux (guide)
 
 
+
 ## Setting up command-line git
 
 	Run git config
