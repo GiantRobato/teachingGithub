@@ -9,7 +9,7 @@ Make sure you download github for your operating system before continuing! Here 
 
 * [Windows](https://windows.github.com/)
 * [Mac](https://mac.github.com/)
-* Linux
+* Linux (guide)
 
 
 ## Setting up command-line git
