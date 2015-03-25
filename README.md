@@ -8,7 +8,7 @@ This github aims to teach how to use github.
 Make sure you download github for your operating system before continuing! Here are the links:
 
 * [Windows](https://windows.github.com/)
-* Mac
+* [Mac](https://mac.github.com/)
 * Linux
 
 
